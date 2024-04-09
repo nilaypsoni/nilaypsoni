@@ -9,13 +9,13 @@ About Me 😊
 📫 How to reach me: nilaypsoni@gmail.com
 
 My Skills 🦾
-✅ Programming Languages: Reactjs/Nextjs | Vuejs | Nodejs/Nestjs | PHP | Laravel | Codeigniter
-✅ Technologies/Frameworks: RESTful APIs | GraphQL | WebSockets | AWS | GCP | Docker | Firebase | PostgreSql | Mysql | MongoDB | Figma
-✅ Version Control: Git | GitHub | GitLab | Bitbucket
-✅ Package Managers: NPM | YARN
-✅ Task Runners/Build Tools: Webpack | Gulp | Grunt
-✅ Project Management: Trello | Asana | Jira | Monday.com | Notion | Linear | Figma
-✅ Tools: Visual Studio Code | Sublime Text | Atom
+✅ Programming Languages: Reactjs/Nextjs | Vuejs | Nodejs/Nestjs | PHP | Laravel | Codeigniter 
+✅ Technologies/Frameworks: RESTful APIs | GraphQL | WebSockets | AWS | GCP | Docker | Firebase | PostgreSql | Mysql | MongoDB | Figma 
+✅ Version Control: Git | GitHub | GitLab | Bitbucket 
+✅ Package Managers: NPM | YARN 
+✅ Task Runners/Build Tools: Webpack | Gulp | Grunt 
+✅ Project Management: Trello | Asana | Jira | Monday.com | Notion | Linear | Figma 
+✅ Tools: Visual Studio Code | Sublime Text | Atom 
 
 Let's Connect! 🤝
 🔵 LinkedIn: https://www.linkedin.com/in/nilay-soni/

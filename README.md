@@ -1,4 +1,4 @@
-Hi there!<br /> I'm Nilay 🌞,<br /> a Full-Stake & Chrome Extension Developer.<br /><br />
+Hi there!<br /> I'm Nilay 🌞,<br /> a Full-stack & Chrome Extension Developer.<br /><br />
 🎊 Welcome to my GitHub profile! Here you'll find a variety of projects, ranging from personal experiments to contributions to open-source initiatives.
 
 **About Me** 😊 <br /><br />

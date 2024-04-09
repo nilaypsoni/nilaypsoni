@@ -17,7 +17,7 @@ Hi there!<br /> I'm Nilay 🌞,<br /> a Full-stack & Chrome Extension Developer.
 ✅ Project Management: Trello | Asana | Jira | Monday.com | Notion | Linear | Figma <br />
 ✅ Tools: Visual Studio Code | Sublime Text | Atom <br />
 
-**Service I Provide** :+1:<br /><br />
+**Services I Provide** :+1:<br /><br />
 :zap: Linkedin Automation <br />
 :zap: Chrome Extension <br />
 :zap: Browser Extension <br />

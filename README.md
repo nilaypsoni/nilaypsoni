@@ -1,25 +1,25 @@
-Hi there! I'm Nilay 🌞, a Full-Stake & Chrome Extension Developer.
+Hi there! I'm Nilay 🌞, a Full-Stake & Chrome Extension Developer.<br />
 🎊 Welcome to my GitHub profile! Here you'll find a variety of projects, ranging from personal experiments to contributions to open-source initiatives.
 
 About Me 😊
-🌱 I’m currently learning DevOps
-💼 I am open to work
-👥 I’m looking to collaborate on developement realted work
-🎓 I have done Master in computer science
-📫 How to reach me: nilaypsoni@gmail.com
+🌱 I’m currently learning DevOps <br />
+💼 I am open to work <br />
+👥 I’m looking to collaborate on developement realted work <br />
+🎓 I have done Master in computer science <br />
+📫 How to reach me: nilaypsoni@gmail.com <br />
 
 My Skills 🦾
 ✅ Programming Languages: Reactjs/Nextjs | Vuejs | Nodejs/Nestjs | PHP | Laravel | Codeigniter <br />
-✅ Technologies/Frameworks: RESTful APIs | GraphQL | WebSockets | AWS | GCP | Docker | Firebase | PostgreSql | Mysql | MongoDB | Figma 
-✅ Version Control: Git | GitHub | GitLab | Bitbucket 
-✅ Package Managers: NPM | YARN 
-✅ Task Runners/Build Tools: Webpack | Gulp | Grunt 
-✅ Project Management: Trello | Asana | Jira | Monday.com | Notion | Linear | Figma 
-✅ Tools: Visual Studio Code | Sublime Text | Atom 
+✅ Technologies/Frameworks: RESTful APIs | GraphQL | WebSockets | AWS | GCP | Docker | Firebase | PostgreSql | Mysql | MongoDB | Figma <br />
+✅ Version Control: Git | GitHub | GitLab | Bitbucket <br />
+✅ Package Managers: NPM | YARN <br />
+✅ Task Runners/Build Tools: Webpack | Gulp | Grunt <br />
+✅ Project Management: Trello | Asana | Jira | Monday.com | Notion | Linear | Figma <br />
+✅ Tools: Visual Studio Code | Sublime Text | Atom <br />
 
 Let's Connect! 🤝
-🔵 LinkedIn: https://www.linkedin.com/in/nilay-soni/
+🔵 LinkedIn: https://www.linkedin.com/in/nilay-soni/ <br />
 
-Please don't hesitate to reach out if you have any questions, suggestions, or just want to chat!
+Please don't hesitate to reach out if you have any questions, suggestions, or just want to chat! <br />
 
 Thanks for visiting! 😊

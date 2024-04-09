@@ -18,16 +18,16 @@ Hi there!<br /> I'm Nilay 🌞,<br /> a Full-stack & Chrome Extension Developer.
 ✅ Tools: Visual Studio Code | Sublime Text | Atom <br />
 
 **Service I Provide**<br /><br />
-:zap: Linkedin Automation
-:zap: Chrome Extension
-:zap: Browser Extension
-:zap: ChatGPT/OPENAI
-:zap: E-Commerce Development
-:zap: Fullstack Development
-:zap: Web development
-:zap: Mobile development
-:zap: Multi-threaded Scraper
-:zap: Image scraping
+:zap: Linkedin Automation <br />
+:zap: Chrome Extension <br />
+:zap: Browser Extension <br />
+:zap: ChatGPT/OPENAI <br />
+:zap: E-Commerce Development <br />
+:zap: Fullstack Development <br />
+:zap: Web development <br />
+:zap: Mobile development <br />
+:zap: Multi-threaded Scraper <br />
+:zap: Image scraping <br />
 :zap: DOM manipulation<br /><br />
 
 **Let's Connect!** 🤝 <br /><br />

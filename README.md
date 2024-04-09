@@ -17,6 +17,19 @@ Hi there!<br /> I'm Nilay 🌞,<br /> a Full-stack & Chrome Extension Developer.
 ✅ Project Management: Trello | Asana | Jira | Monday.com | Notion | Linear | Figma <br />
 ✅ Tools: Visual Studio Code | Sublime Text | Atom <br />
 
+**Service I Provide**<br /><br />
+:zap: Linkedin Automation
+:zap: Chrome Extension
+:zap: Browser Extension
+:zap: ChatGPT/OPENAI
+:zap: E-Commerce Development
+:zap: Fullstack Development
+:zap: Web development
+:zap: Mobile development
+:zap: Multi-threaded Scraper
+:zap: Image scraping
+:zap: DOM manipulation<br /><br />
+
 **Let's Connect!** 🤝 <br /><br />
 🔵 LinkedIn: https://www.linkedin.com/in/nilay-soni/ <br />
 

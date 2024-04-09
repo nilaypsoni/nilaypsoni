@@ -9,7 +9,7 @@ About Me 😊
 📫 How to reach me: nilaypsoni@gmail.com
 
 My Skills 🦾
-✅ Programming Languages: Reactjs/Nextjs | Vuejs | Nodejs/Nestjs | PHP | Laravel | Codeigniter 
+✅ Programming Languages: Reactjs/Nextjs | Vuejs | Nodejs/Nestjs | PHP | Laravel | Codeigniter <br />
 ✅ Technologies/Frameworks: RESTful APIs | GraphQL | WebSockets | AWS | GCP | Docker | Firebase | PostgreSql | Mysql | MongoDB | Figma 
 ✅ Version Control: Git | GitHub | GitLab | Bitbucket 
 ✅ Package Managers: NPM | YARN 

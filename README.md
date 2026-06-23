@@ -1,38 +1,47 @@
-Hi there!<br /> I'm Nilay 🌞,<br /> a Full-stack & Chrome Extension Developer.<br /><br />
-🎊 Welcome to my GitHub profile! Here you'll find a variety of projects, ranging from personal experiments to contributions to open-source initiatives.
+### Hi, I'm Nilay Soni 👋
 
-**About Me** 😊 <br /><br />
-🌱 I’m currently learning DevOps <br />
-💼 I am open to work <br />
-👥 I’m looking to collaborate on developement realted work <br />
-🎓 I have done Master in computer science <br />
-📫 How to reach me: nilaypsoni@gmail.com <br />
+Full-Stack & Chrome Extension Developer · Ahmedabad, India
 
-**My Skills** 🦾 <br /><br />
-✅ Programming Languages: Reactjs/Nextjs | Vuejs | Nodejs/Nestjs | PHP | Laravel | Codeigniter <br />
-✅ Technologies/Frameworks: RESTful APIs | GraphQL | WebSockets | AWS | GCP | Docker | Firebase | PostgreSql | Mysql | MongoDB | Figma <br />
-✅ Version Control: Git | GitHub | GitLab | Bitbucket <br />
-✅ Package Managers: NPM | YARN <br />
-✅ Task Runners/Build Tools: Webpack | Gulp | Grunt <br />
-✅ Project Management: Trello | Asana | Jira | Monday.com | Notion | Linear | Figma <br />
-✅ Tools: Visual Studio Code | Sublime Text | Atom <br />
+I build SaaS products, browser extensions, and scalable web applications.
+Founder of **[EliteSigma Infotech LLP](https://elitesigma.com)**.
 
-**Services I Provide** :+1:<br /><br />
-:zap: Linkedin Automation <br />
-:zap: Chrome Extension <br />
-:zap: Browser Extension <br />
-:zap: ChatGPT/OPENAI <br />
-:zap: E-Commerce Development <br />
-:zap: Fullstack Development <br />
-:zap: Web development <br />
-:zap: Mobile development <br />
-:zap: Multi-threaded Scraper <br />
-:zap: Image scraping <br />
-:zap: DOM manipulation<br /><br />
+---
 
-**Let's Connect!** 🤝 <br /><br />
-🔵 LinkedIn: https://www.linkedin.com/in/nilay-soni/ <br />
+**About me**
 
-Please don't hesitate to reach out if you have any questions, suggestions, or just want to chat! <br />
+- 🏢 Running **EliteSigma Infotech** — web & mobile development, DevOps, QA, SEO
+- 🔧 Currently building: PetForWeb · SelrIQ · EVA · Grovo.io
+- 📚 Deepening expertise in DevOps & cloud infrastructure
+- 🎓 Master of Computer Science
+- 📬 [nilaypsoni@gmail.com](mailto:nilaypsoni@gmail.com)
 
-Thanks for visiting! 😊
+---
+
+**Tech stack**
+
+| Layer | Technologies |
+|---|---|
+| Frontend | React.js · Next.js · Vue.js · TypeScript |
+| Backend | Node.js · NestJS · PHP · Laravel · CodeIgniter |
+| APIs | REST · GraphQL · WebSockets |
+| Databases | PostgreSQL · MySQL · MongoDB · Firebase |
+| Cloud & DevOps | AWS · GCP · Docker |
+| Extensions | Chrome MV3 · Manifest V3 |
+| Billing | Razorpay · PayPal |
+| Tools | Git · Figma · Jira · Notion · Linear |
+
+---
+
+**What I build**
+
+⚡ Chrome & browser extensions  ·  Full-stack SaaS products  · 
+E-commerce platforms  ·  LinkedIn automation tools  · 
+AI-integrated tools (OpenAI / Gemini)  ·  Multi-threaded scrapers
+
+---
+
+**Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nilay%20Soni-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nilay-soni/)
+[![Website](https://img.shields.io/badge/Website-elitesigma.com-4A90E2?style=flat&logo=globe)](https://elitesigma.com)
+[![Email](https://img.shields.io/badge/Email-nilaypsoni%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:nilaypsoni@gmail.com)
